@@ -1,0 +1,14 @@
+/.idea/
+*.class
+*.o
+*.d
+/out
+*.node
+*.Makefile
+*.iml
+/target
+*.idea
+*.idea/
+*.pyc
+vue_emos_web\node_modules
+

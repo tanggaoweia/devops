@@ -1,0 +1,6 @@
+vue-equipment-management-platform\src\assets\img\*.jpg filter=lfs diff=lfs merge=lfs -text
+/vue_code/vue-equipment-management-platform/src/assets/css/theme-green/fonts/element-icons.ttf filter=lfs diff=lfs merge=lfs -text
+/vue_code/vue-equipment-management-platform/src/assets/css/theme-green/fonts/element-icons.woff filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.woff filter=lfs diff=lfs merge=lfs -text
+*.ttf filter=lfs diff=lfs merge=lfs -text
