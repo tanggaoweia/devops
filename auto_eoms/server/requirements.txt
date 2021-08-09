@@ -15,7 +15,7 @@ pika==1.1.0
 PyMySQL==0.9.3
 python-dateutil==2.8.1
 pytz==2019.3
-pywin32==227
+pywin32==301
 requests==2.22.0
 simplejson==3.16.0
 six==1.12.0
